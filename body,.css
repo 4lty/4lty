@@ -1,0 +1,39 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: "montserrat",sans-serif;
+	background: url(gigachad.jpg) no-repeat center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1{
+
+	font-size: 3rem;
+	color: #ebeeef;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+
+	background-color: #0a84f5;
+	border-width: 4px;
+}
+
+.buffer {
+	height: 8rem;
+}
+
+
+
+.btn-xl {
+	padding: 1rem 2 rem;
+}
